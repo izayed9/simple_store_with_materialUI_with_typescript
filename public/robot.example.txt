@@ -1,0 +1,6 @@
+Sitemap: https://domain.com/sitemap/posts-sitemap
+
+User-agent: *
+Allow: /*
+
+Disallow: /sitemap/*
